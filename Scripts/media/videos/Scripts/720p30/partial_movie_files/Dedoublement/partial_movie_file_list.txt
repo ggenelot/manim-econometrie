@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Dedoublement/274514146_4070753449_3877015314.mp4'
+file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Dedoublement/207390714_1806385258_1326374551.mp4'
+file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Dedoublement/207390714_3765150905_1326374551.mp4'
