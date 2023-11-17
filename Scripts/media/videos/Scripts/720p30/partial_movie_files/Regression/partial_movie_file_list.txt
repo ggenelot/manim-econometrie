@@ -1,6 +1,6 @@
 # This file is used internally by FFMPEG.
-file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Regression/274514146_518794733_223132457.mp4'
-file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Regression/207390714_3837998516_3785152137.mp4'
-file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Regression/207390714_1284182367_1941667761.mp4'
-file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Regression/207390714_2474512999_1660230318.mp4'
-file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Regression/207390714_2474512999_1193243282.mp4'
+file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Regression/274514146_1143711895_223132457.mp4'
+file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Regression/2789044632_3315967912_3822328852.mp4'
+file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Regression/2789044632_370365643_1941667761.mp4'
+file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Regression/2789044632_3315967912_1925369880.mp4'
+file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Regression/2789044632_3315967912_3330340795.mp4'

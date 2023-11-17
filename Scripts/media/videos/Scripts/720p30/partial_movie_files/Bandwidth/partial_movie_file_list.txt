@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Bandwidth/274514146_329969645_547968854.mp4'
+file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Bandwidth/2789044632_933808278_2708351171.mp4'
+file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Bandwidth/2789044632_1802784722_3826474763.mp4'
+file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Bandwidth/2789044632_190800790_1626875132.mp4'
+file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Bandwidth/2789044632_2846069126_3353353166.mp4'
+file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Bandwidth/2789044632_1773016122_3466695951.mp4'
+file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Bandwidth/2789044632_3073779459_1031586973.mp4'
+file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Bandwidth/2789044632_1482770777_2347770889.mp4'
+file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/Bandwidth/2789044632_3073779459_3061602990.mp4'

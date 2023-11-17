@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/gabriel/Documents/Projet/manim-econometrie/Scripts/media/videos/Scripts/720p30/partial_movie_files/ContinuousMotion/274514146_1135846696_2227870732.mp4'
